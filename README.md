@@ -49,7 +49,7 @@ inside any contain of ipfs
 ```code
 docker-compose exec ipfs0 sh
 
-ipfs add -f /export/users
+ipfs add -r /export/users
 
 some result:
 
